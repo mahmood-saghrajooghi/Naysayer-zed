@@ -1,0 +1,7 @@
+id = "naysayer"
+name = "Naysayer"
+version = "0.0.1"
+schema_version = 1
+authors = ["Mahmood Sagharjooghi"]
+description = "Jonothan Blow's theme for zed"
+repository = "https://github.com/your-name/my-zed-extension"
